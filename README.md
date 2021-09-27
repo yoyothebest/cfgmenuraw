@@ -17,6 +17,9 @@ Supported games:
 Default controls:
 
 [ J ] - opens the menu / goes UP (Menu needs to be preloaded into the game via exec)
+
 [ K ] - goes DOWN
+
 [ V ] - goes back / closes menu (Also melees)
+
 [ SPACE ] - selects a menu/option (Also jumps/changes stance)
