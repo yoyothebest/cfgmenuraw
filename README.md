@@ -6,7 +6,7 @@ Multi-COD .cfg menu
 
 - Fully customisable
 - Simple default controls (1 button for executing, 2 buttons to move and open, 1 button to go back/close)
-- Big amount of menus and options can be loaded (currently tested and implemented 12 menus and options)
+- Big amount of menus and options can be loaded (currently tested and implemented 11 menus and 12 options per menu)
 
 Supported games:
 ~~~~
