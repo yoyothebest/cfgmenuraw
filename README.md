@@ -33,4 +33,4 @@ Current bugs:
 A fix would be to change the game resolution or reduce the amount of symbols in menu.
 
 2. In some games after executing the menu line ''Unknown cmd updategameprofile'' will break the menu structure.
-No fix for now. (Maybe wait after drawing the menu and then open menu?)
+No fix for now.
