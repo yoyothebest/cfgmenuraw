@@ -23,3 +23,14 @@ Default controls:
 [ V ] - goes back / closes menu (Also melees)
 
 [ SPACE ] - selects a menu/option (Also jumps/changes stance)
+
+Current bugs:
+1. Does not properly work on these resolutions
+ 
+- 640x480
+- 800x600
+
+A fix would be to change the game resolution or reduce the amount of symbols in menu.
+
+2. In some games after executing the menu line ''Unknown cmd updategameprofile'' will break the menu structure.
+No fix for now. (Maybe wait after drawing the menu and then open menu?)
