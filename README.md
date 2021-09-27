@@ -11,7 +11,7 @@ Multi-COD .cfg menu
 Supported games:
 ~~~~
 - Call of Duty 4 (Singleplayer & Multiplayer) [Original, cod4x]
-- Call of Duty: Modern Warfare 2 [IW4x, MW2:Reimagined] (SP?)
+- Call of Duty: Modern Warfare 2 [IW4x, MW2:Reimagined, Modded singleplayer with console unlocked]
 ~~~~
 
 Default controls:
